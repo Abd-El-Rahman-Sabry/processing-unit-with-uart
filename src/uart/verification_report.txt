@@ -1,0 +1,3 @@
+VCD info: dumpfile design.vcd opened for output.
+Starting Test
+./clk_div/clk_div_tb.v:49: $finish called at 18020 (100ps)

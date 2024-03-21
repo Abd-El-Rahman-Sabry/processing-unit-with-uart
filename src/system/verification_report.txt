@@ -1,0 +1,4 @@
+VCD info: dumpfile system.vcd opened for output.
+15 
+3 
+.\system_tb.v:152: $finish called at 1632200 (100ps)

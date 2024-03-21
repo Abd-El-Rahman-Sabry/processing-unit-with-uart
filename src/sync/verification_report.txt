@@ -1,0 +1,2 @@
+VCD info: dumpfile design.vcd opened for output.
+.\data_sync_tb.v:54: $finish called at 200021 (100ps)
